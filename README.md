@@ -6,11 +6,15 @@ ______________________________________________________________________________
 
 🔭 Currently working on:
 
-Building beginner-friendly coding tutorials
+Building beginner-friendly Websites
 _________________________________________________________________________________
 🌱 Learning:
 
-Advanced Frontend Development, Git, and Full Stack Development
+Advanced Frontend Development
+
+Git 
+
+Full Stack Development
 _______________________________________________________________________________________
 🚀 Skills & Tools
 
