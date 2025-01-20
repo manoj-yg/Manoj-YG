@@ -1,4 +1,29 @@
-## Hi there 👋
+Hi there, I'm Manoj 👋
+
+Welcome to my GitHub profile!
+______________________________________________________________________________
+🛠️ About Me
+
+🔭 Currently working on:
+
+Building beginner-friendly coding tutorials
+_________________________________________________________________________________
+🌱 Learning:
+
+Advanced Frontend Development, Git, and Full Stack Development
+_______________________________________________________________________________________
+🚀 Skills & Tools
+
+Frontend Development
+
+HTML5
+
+CSS3
+
+JavaScript
+_________________________________________________________________________________________________________
+🤝 Let's Connect!
+Feel free to explore my repositories and connect with me for collaboration!
 
 <!--
 **manoj-yg/Manoj-YG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
