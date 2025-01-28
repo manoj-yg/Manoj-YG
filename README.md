@@ -1,14 +1,14 @@
-#Hi there, I'm Manoj 👋
+# Hi there, I'm Manoj 👋
 
 Welcome to my GitHub profile!
 ______________________________________________________________________________
-##🛠️ About Me
+## 🛠️ About Me
 
 🔭 Currently working on:
 
 Building beginner-friendly Websites
 _________________________________________________________________________________
-##🌱 Learning:
+## 🌱 Learning:
 
 Advanced Frontend Development
 
@@ -16,7 +16,7 @@ Git
 
 Full Stack Development
 _______________________________________________________________________________________
-##🚀 Skills & Tools
+## 🚀 Skills & Tools
 
 Frontend Development
 
@@ -26,7 +26,7 @@ CSS3
 
 JavaScript
 _________________________________________________________________________________________________________
-##🤝 Let's Connect!
+## 🤝 Let's Connect!
 Feel free to explore my repositories and connect with me for collaboration!
 
 <!--
